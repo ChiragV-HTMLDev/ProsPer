@@ -1,10 +1,4 @@
-/* ===================================================================
-    
-    Author          : Valid Theme
-    Template Name   : Solion - IT Solutions Template
-    Version         : 1.0
-    
-* ================================================================= */
+
 
 (function($) {
     "use strict";
